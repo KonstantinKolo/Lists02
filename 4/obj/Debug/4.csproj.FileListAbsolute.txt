@@ -1,0 +1,7 @@
+D:\DomashnaRabota\Lists02\4\bin\Debug\4.exe.config
+D:\DomashnaRabota\Lists02\4\bin\Debug\4.exe
+D:\DomashnaRabota\Lists02\4\bin\Debug\4.pdb
+D:\DomashnaRabota\Lists02\4\obj\Debug\4.csproj.AssemblyReference.cache
+D:\DomashnaRabota\Lists02\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Lists02\4\obj\Debug\4.exe
+D:\DomashnaRabota\Lists02\4\obj\Debug\4.pdb
